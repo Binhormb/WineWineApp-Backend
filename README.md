@@ -51,7 +51,7 @@ Interfaces responsáveis pela persistência de dados:
 ## 🚀 Como rodar o projeto
 
 1. Clone o repositório.
-2. Escolha uma IDE de sua preferência e abra o projeto.
+2. Escolha uma IDE de sua preferência e abra o projeto. **(Recomendado = IntelliJ IDEA)**
 3. vá até a classe principal:
    `wine/src/main/java/com/win/WineApplication.java`
    
