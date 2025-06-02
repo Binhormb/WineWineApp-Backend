@@ -52,7 +52,7 @@ Interfaces responsáveis pela persistência de dados:
 
 1. Clone o repositório.
 2. Escolha uma IDE de sua preferência e abra o projeto. **(Recomendado = IntelliJ IDEA)**
-3. vá até a classe principal:
+3. Vá até a classe principal:
    `wine/src/main/java/com/win/WineApplication.java`
    
 5. Utilize o Postman para fazer as requisições.
