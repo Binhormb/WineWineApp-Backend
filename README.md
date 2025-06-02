@@ -1,4 +1,4 @@
-# 🍷 WineApp - Backend
+# 🍷 WineWineApp - Backend
 **Repositório do Back-end da aplicação WineApp**
 
 Projeto acadêmico com as seguintes tecnologias:
