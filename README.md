@@ -27,14 +27,14 @@ Contém as entidades principais do sistema:
 `Cliente.class`
 `Endereco.class`
 `Pedido.class`
-`Produto`
+`Produto.class`
 
 📂 repository
 
 Interfaces responsáveis pela persistência de dados:
 
 `ClienteRepository.class`
-`EnderecoRepository`
+`EnderecoRepository.class`
 `PedidoRepository.class`
 `ProdutoRepository.class`
 
