@@ -1,7 +1,7 @@
 # 🍷 WineWineApp - Backend
 **Repositório do Back-end da aplicação WineApp**
 
-Projeto acadêmico com as seguintes tecnologias:
+Projeto acadêmico para a criação de uma loja virtual destinada a vendas e consulta de vinhos com as seguintes tecnologias:
 - Backend: **Java (Spring Boot)**
 - Frontend: **Kotlin**
 - Banco de Dados: **MySQL**
